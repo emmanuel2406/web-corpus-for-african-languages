@@ -10,8 +10,11 @@ load_dotenv()
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
+# Change this as necessary
 URLS_PER_CONFIG = 5
 OUTPUT_DIR = "language_outputs"
+
+
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 

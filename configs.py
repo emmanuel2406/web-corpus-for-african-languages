@@ -10,8 +10,6 @@ topics = [
     "Public Health", "Vaccination", "Maternal Care", "School Access", "Sports Leagues",
     "National Teams", "Street Markets"
 ]
-languages = [("Northern_Sotho", "South_Africa"), ("Xhosa", "South_Africa"), ("Zulu", "South_Africa"), ("Tswana", "South_Africa"), ("Venda", "South_Africa"), ("Swazi", "South_African"), ("Tsonga", "South_African"), ("Tswana", "South_African"), ("Venda", "South_African"), ("Swazi", "South_African"), ("Tsonga", "South_African")]
 
-
-# topics=["Sports"]
-# languages=[("Northern_Sotho", "South_Africa")]
+# pair of language and country
+languages = [("Northern_Sotho", "South_Africa"), ("Xhosa", "South_Africa"), ("Zulu", "South_Africa"), ("Tswana", "South_Africa"), ("Venda", "South_Africa"), ("Swazi", "South_African"), ("Tsonga", "South_African"), ("Swazi", "South_African"), ("Tsonga", "South_African")]
